@@ -2,7 +2,7 @@
 
 Aplicación **C++/Qt** para administrar componentes electrónicos. Registro, búsqueda, alertas stock bajo, reportes CSV. Funciona en PC y **Raspberry Pi**.
 
-**Entregas-ALSE/proyecto_op3_2025**
+**Entregas-ALSE/proyecto_2026**
 
 ## ✨ Características
 - Gestión completa de inventario
